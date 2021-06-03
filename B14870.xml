@@ -1,0 +1,1890 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The paine of pleasure, describing in a perfect mirror, the miseries of man.</title>
+            <author>Munday, Anthony, 1553-1633.</author>
+         </titleStmt>
+         <extent>Approx. 82KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14870</idno><idno type="EEBO-CITATION">99893081</idno>
+  <idno type="VID">194418</idno>
+  <idno type="EEBO-PROQUEST">2240922932</idno>
+  
+            <idno type="STC">STC 18277.5</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.57.d.49[3]</idno>
+            <idno type="STC">ESTC S126004</idno>
+            <idno type="PROQUEST">ocm99893081</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99893081e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14870)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194418)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; D3:3[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The paine of pleasure, describing in a perfect mirror, the miseries of man.</title>
+                  <author>Munday, Anthony, 1553-1633.</author>
+               </titleStmt>
+               <extent>[44] p.   </extent>
+               <publicationStmt>
+                  <publisher>[H. Bynneman?,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1583?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Imprint suggested by STC.</note>
+                  <note>Leaf B1r has catchword "What".</note>
+                  <note>"The authors dreame" begins on E4v.</note>
+                  <note>Imperfect: lacking t.p. and leaf A2; print show-through.</note>
+                  <note>Signatures: A-E⁴ F².</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English poetry --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:194418:1"/>
+            <head>
+               <hi>The paine of pleasure, describing in a</hi> perfect mirror, the miseries of man.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Hen I sometime begin to weigh in minde,</l>
+               <l>The wretched state of miserable man:</l>
+               <l>Me thinkes (alas) I presently doe finde,</l>
+               <l>Such suddaine harmes that happen now &amp; than.</l>
+               <l>As euerie way doe plainely seeme to show:</l>
+               <l>That man dooth liue within a world of woe.</l>
+               <l>¶ For first in birth we worke our mothers woe,</l>
+               <l>In infancie we cause our Parents care:</l>
+               <l>In further yéeres, we fall in miserie,</l>
+               <l>From vertues line, and light in sinfull snare.</l>
+               <l>In further yéeres, we wander too and fro,</l>
+               <l>And last in age, God knoweth howe we die.</l>
+               <l>¶ In childish yéeres, we first with cries begin,</l>
+               <l>To shew in age, such sorrowes as ensue:</l>
+               <l>In lustie youth, we dayly trauaile in</l>
+               <l>Such wicked wayes, as wicked age dooth rue.</l>
+               <l>In such a sorte, our elder yéeres we spend:</l>
+               <l>As in our age, doe bréede our dolefull end.</l>
+               <l>¶ And for the ioyes that in our life we finde,</l>
+               <l>Which are but few, and yet not free from woe:</l>
+               <l>What are they all, but Feathers in the winde?</l>
+               <l>Which euery tempest tolleth too and fro.</l>
+               <l>Which tempests so, are rising euery day:</l>
+               <l>As in short space blow all our ioyes away.</l>
+               <l>¶ And now such ioyes, as we short time enioy,</l>
+               <l>From tender yéeres, euen till our dying hawre:</l>
+               <l>Which many wayes are mixed with annoy,</l>
+               <l>So that each swéete, dooth yéeld as sharpe a sowre.</l>
+               <l>Marke what they be, as I doe shew them plaine,</l>
+               <l>And you may, sée, eache pleasures fruite is paine.</l>
+               <l>¶ In infancie, what is our chiefest ioy?</l>
+               <l>The Nurses dug, whose milke may marre the Childe:</l>
+               <pb facs="tcp:194418:2"/>
+               <l>And then delight in many a gaudie toy,</l>
+               <l>Whose garish hue, doth make our wits so wilde.</l>
+               <l>As in such sorte dooth settle our delight:</l>
+               <l>As doth our wits withdrawe from wisdome quite,</l>
+               <l>¶ Then to be dandled in our mothers lappe,</l>
+               <l>And to be strokt at cockring Fathers hand:</l>
+               <l>When better were by now and then a rappe.</l>
+               <l>For to be kept in true obedience band.</l>
+               <l>Then to be cockte of both our Parents so:</l>
+               <l>As that in yéeres it turne vnto our woe.</l>
+               <l>¶ For Mothers milde, that thinke they loue the child,</l>
+               <l>By kéeping him from Fathers crueltie:</l>
+               <l>In time of yéeres, may finde her selfe beguild,</l>
+               <l>By letting him haue lauish libertie.</l>
+               <l>For libertie in youth, dooth run such race:</l>
+               <l>As quite forgets the path of perfect grace.</l>
+               <l>¶ And then (alas) too late comes had I wist,</l>
+               <l>And then they blame the nature of the Childe:</l>
+               <l>Which they might well haue bridled as they lift,</l>
+               <l>But wantonnes hath made the wits so wilde.</l>
+               <l>As rather runnes in vale of vanitie:</l>
+               <l>Then séekes the pathe of perfect pietie.</l>
+               <l>¶ But let me leaue to speake of childish yéeres,</l>
+               <l>And let me write of lustie gallant youth:</l>
+               <l>Who through the world doth trauaile with his phéers</l>
+               <l>Such wayes in age, as moues his minde to ruth.</l>
+               <l>And in such toyes doth set his chiefe delight,</l>
+               <l>As that in age dooth worke his vtter spight.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Beautie,</hi> The first pleasure.</head>
+               <l>FOr now beholde in youth, one chiefest ioy,</l>
+               <l>In which too many, most delight doe finde:</l>
+               <l>Which though well waide, is but in déede a toy,</l>
+               <l>Yet to delight, allures the wisest minde.</l>
+               <pb facs="tcp:194418:2"/>
+               <l>Which thing to name, is Beauties heauenly hue:</l>
+               <l>Which yéeldes delight, that thousands dayly rue.</l>
+               <l>¶ For beautie first bréedes liking in the minde,</l>
+               <l>Liking bréedes lust, lust lewdnes, lewdnes, what?</l>
+               <l>Such world of woes, as age doth quickly finde,</l>
+               <l>And cries (alas) repentance all too late.</l>
+               <l>See beautie then, in youth the chiefest ioy,</l>
+               <l>In age is séene to worke no small annoy.</l>
+               <l>¶ Beautie in some doth cause a kinde of pride,</l>
+               <l>And pride must be maintained all by cost:</l>
+               <l>And cost makes youth, in age his head to hide,</l>
+               <l>For shame or debt, when all his wealth is lost.</l>
+               <l>But oh fond youth to ioy in Beautie so:</l>
+               <l>As that in age his ioy doth bréede such woe.</l>
+               <l>¶ In other some, yet Beautie worketh woorfe,</l>
+               <l>It makes accesse, of such as practise ill:</l>
+               <l>Whose ill accesse the beautifull may curse,</l>
+               <l>That vnto vice allure their wanton will.</l>
+               <l>Oh vile delight, where Beautie so is plast:</l>
+               <l>To make in déede, the fairest face disgrast.</l>
+               <l>¶ In some againe it bréedes a great delight,</l>
+               <l>In modest mindes, whose heartes are not at rest:</l>
+               <l>But thousand pangs, are dayly forst to proue,</l>
+               <l>For louing them, whome beautie so hath blest.</l>
+               <l>For lucklesse lots, so follow louers ioy:</l>
+               <l>As many wayes doth worke them great annoy.</l>
+               <l>¶ But where the face, with beautie is bedeckt,</l>
+               <l>And beares withall a modest countenance:</l>
+               <l>Whose minde againe to vertue hath respect,</l>
+               <l>And thereby séekes, their state for to aduaunce.</l>
+               <l>There will I say it is no foolish toy:</l>
+               <l>But thought in déede a rare and heauenly ioy.</l>
+               <l>But to be short, in youth our chiefe delight,</l>
+               <l>As first I said, in beauties heauenly hue:</l>
+               <l>As well in youth as age, worke such despight,</l>
+               <l>As well may make the stoutest hart to rue,</l>
+               <pb facs="tcp:194418:3"/>
+               <l>Which now I leaue, and to some other toy:</l>
+               <l>Which yéeldes great woe, but to a little ioy.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Riches,</hi> The second pleasure.</head>
+               <l>IN Ritches now, another kinde of ioy,</l>
+               <l>In which both youth and age haue great delight:</l>
+               <l>Were it well waide, and it were but a t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</l>
+               <l>Which manie waies doe broode their great despight.</l>
+               <l>In getting first with labour, care and paine,</l>
+               <l>In kéeping to, as great vnrest againe.</l>
+               <l>¶ In getting first, the b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aine is busied,</l>
+               <l>With déepe deuise to cast a plot to gaiue:</l>
+               <l>Then armes, hands, legges and feete, are occupied,</l>
+               <l>For cankered coyne, their strongest ioynt to straine.</l>
+               <l>I doe not meane, as some <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>disely doe:</l>
+               <l>Deuise for royne, to straine a necke ioynt to:</l>
+               <l>¶ God forbid that, and yet some men doe so,</l>
+               <l>Both stretch and cracke, and breake their necke ioy<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>:</l>
+               <l>But wealth so wunne. dooth bréede no <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tle woe,</l>
+               <l>God mend their mindes that so denise to doe.</l>
+               <l>Better to die a begger of the twainē:</l>
+               <l>Then by such meanes to séeke or gape for gaine.</l>
+               <l>¶ This is (alas) a wicked way to gaine:</l>
+               <l>Yet not the wurst: for some <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oh euried they:</l>
+               <l>That séeke the meane to haue their parents <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aine,</l>
+               <l>And Friendes and kinsso<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es, closely make away.</l>
+               <l>To gaine their goods, but oh ill gotten gaine:</l>
+               <l>Whose getting bréedes, the soule eternall paine.</l>
+               <l>¶ God shield each one, from such a beastly thought,</l>
+               <l>So to deuise, to purchase worldly pray:</l>
+               <l>And pardon those that wickedly haue wrought,</l>
+               <l>Such deuillish meanes to worke their soules decay.</l>
+               <l>And graunt vs all so for to seeke for wealth:</l>
+               <l>As neckes cracke not, nor hinder our soules health.</l>
+               <pb facs="tcp:194418:3"/>
+               <l>¶ But leauing these, lets see some other waies,</l>
+               <l>In making meanes, to hoorde vp heapes of pence:</l>
+               <l>In strange deuise, to spend both night and dayes,</l>
+               <l>And leaue their home, and goe a great way hence.</l>
+               <l>To find such stuffe, as to returne againe:</l>
+               <l>Doo yéeld them small amends for all their paine.</l>
+               <l>¶ Some saile by sea, to séeke out forraine soyle,</l>
+               <l>To finde out there some gem, of valure great.</l>
+               <l>In séeking which, with tough and tedious toyle,</l>
+               <l>To saue themselues, they <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to sweat.</l>
+               <l>And ere their Barks, be safe <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> on land:</l>
+               <l>How oft their liues in thousand dangers stand.</l>
+               <l>¶ And let their ships be safely set an shore,</l>
+               <l>And they do finde, that which they looke for there:</l>
+               <l>Yet ere returne, they liue perplexed sore.</l>
+               <l>With troubled minde, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> sayling halfed<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> feare.</l>
+               <l>Of forraine <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ek of tempests, Rocks, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ands:</l>
+               <l>Or falling into rouing Pirats hands.</l>
+               <l>¶ And let them be returned home with ioy,</l>
+               <l>And all their goods brought home to their <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>:</l>
+               <l>Yet sée what then doth <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+               <l>Oh then they feare each foolish sparke of <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>Should burne their house, and then another gréefe,</l>
+               <l>Each Mouse that péepes, should forely be a théefe.</l>
+               <l>Some other now, that loue to liue at home,</l>
+               <l>And onely séeke by sweat of brow to gaine:</l>
+               <l>With spade and sholue about the fieldes they rome,</l>
+               <l>Turmoyling still with labour sore and paine.</l>
+               <l>With carke and care, to purchase wealth in hast:</l>
+               <l>Which God he knowes, but little time will last.</l>
+               <l>¶ Some séeke by play, at Tables, Cardes, and Dice,</l>
+               <l>In secret sort, a world of wealth to winne:</l>
+               <l>But who séeke so, doe proue themselues vnwise,</l>
+               <l>In loosing all, before their gaine beginne.</l>
+               <l>Whose hope of gaine can neuer bréede such ioy,</l>
+               <l>As certaine losse, doth bréede their harts annoy.</l>
+               <pb facs="tcp:194418:4"/>
+               <l>What should I write of euery strange deuise,</l>
+               <l>That some men vse in séeking worldly pelfe?</l>
+               <l>The prouerbe saies, that no man can be wise,</l>
+               <l>That is not wise each way to helpe himselfe.</l>
+               <l>But scripture sayes, the rich to Heauen on <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>Goes like a Cammell, through a Needles <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+               <l>¶ And let a man grow rich in lusty youth,</l>
+               <l>And haue for wealth almost the world at will,</l>
+               <l>Yet sée in age, God wot too great a ruth,</l>
+               <l>It bréedeth death full sore agan<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> their will.</l>
+               <l>How ioyes he then? <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> being his minde friend:</l>
+               <l>To bring his life, his chiefest ioy to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+               <l>† O fond delight, oh grieuous kinde of ioy,</l>
+               <l>Oh cankred coyne, the cause of deadly paine:</l>
+               <l>Oh madhead man to ioy in such <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>Oh gréedie mindes <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</l>
+               <l>Oh wretched wealth, whose ioy d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th bréede such w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Oh God forgiue such fooles as séeke it so.</l>
+               <l>¶ But let wealth passe, one other ioy I finde,</l>
+               <l>Which many count their great an<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> chiefest ioy,</l>
+               <l>Which if they would once <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>They soone should sée it pla<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dly but a toy.</l>
+               <l>Which when God wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with great a doe they gaine,</l>
+               <l>Yet being got, it is not frée from paine.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Honour,</hi> The third pleasure.</head>
+               <l>WHich-ioy to tell, by name is Honour his,</l>
+               <l>Which noblest mindes account the greatest ioy:</l>
+               <l>Which first obtainde, by deadly ieopardie,</l>
+               <l>They doe God knowes, with care enough enioy.</l>
+               <l>Oh man most madde to loue so vaine a thing,</l>
+               <l>As with small ioy, doth thousand sorrowes bring.</l>
+               <l>¶ Loe, first the care in séeking how to clime,</l>
+               <l>With studie strange, how it doth beate our braine:</l>
+               <pb facs="tcp:194418:4"/>
+               <l>In climing then our obseruanice of time,</l>
+               <l>Then héede to holde, least we goe dowr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> againe.</l>
+               <l>The feare to fall, and if we fall, what then?</l>
+               <l>But feare of death, which happes to many men.</l>
+               <l>¶ Let vs scape death, yet may <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> breaken <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>Or lame a limme, or bruse vs inwardly:</l>
+               <l>Or catch a clap may make our harts to grone,</l>
+               <l>And bréede our death, although not presently.</l>
+               <l>Let vs misse these, and haue no harme at all:</l>
+               <l>Yet will it be a griese to take <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fall.</l>
+               <l>¶ And if againe, they venter for to clime.</l>
+               <l>Then must they be more warie then before:</l>
+               <l>For if they chaunce to fall the second time,</l>
+               <l>Tis ten to one but they are brused sore.</l>
+               <l>Yet if they liue, and séeke to clime againe,</l>
+               <l>And third time fall, that brings a deadly paine.</l>
+               <l>¶ Now sundry men, deuise a fundry meane,</l>
+               <l>To make their way to Honour to attaine:</l>
+               <l>What two will chuse, the third misliketh cleane,</l>
+               <l>And glory seekes another way to gaine.</l>
+               <l>But he that séekes the best way that he can:</l>
+               <l>Shall finde vnsought some sorrow now and then.</l>
+               <l>¶ And now and then, such sorrowes as in déede,</l>
+               <l>If euery man would wisely way in minde,</l>
+               <l>We soone should sée, how farre they do<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>zexéede,</l>
+               <l>The little ioyes that we by honour finde,</l>
+               <l>Oh minde most vaine, to séeke so vaine a ioy:</l>
+               <l>Which many wayes doth worke so great annoy.</l>
+               <l>¶ And now, as men doe sundry meanes deuise,</l>
+               <l>To scale the toppe of Honours stately throue:</l>
+               <l>So doe their sorrowes diuers wayes arise,</l>
+               <l>Which makes their mindes, to make a sundry mone.</l>
+               <l>Some sigh and sob in secrete sorte alone:</l>
+               <l>To make their griefe, vnto the world vnknowne.</l>
+               <l>¶ For loe, some men doe séeke, by force of armes,</l>
+               <l>To gaine the honour of a valiant Knight:</l>
+               <pb facs="tcp:194418:5"/>
+               <l>Which by ill hap vnto their dayly harmes,</l>
+               <l>Doe finde a foe to vanquish them in fight.</l>
+               <l>In séeking then to clime to Honour so,</l>
+               <l>Or death or maime doth bréede their deadly woe.</l>
+               <l>¶ Some other séeke by Riches to attaine,</l>
+               <l>Euen in the top of Honour high to si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</l>
+               <l>But climing vp, Fates sling them downe againe,</l>
+               <l>As men in déede for such a place vnsit.</l>
+               <l>Which if they fall, and riches fall withall:</l>
+               <l>Way then what griefe doth fret them at the gall.</l>
+               <l>¶ Some fondly thinke, by wateing wealth to gaine,</l>
+               <l>The honour due to liberality:</l>
+               <l>Which contrary vnto their pinching paine,</l>
+               <l>Get the dispraise of prodigality.</l>
+               <l>Which when (alas) their wealth is go<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and spent,</l>
+               <l>Oh thinke how then their <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> lament,</l>
+               <l>¶ But let these men that séeke for honour so,</l>
+               <l>As first the Knight that séekes bysorce of armes</l>
+               <l>T'obtaine the same, yet sée his after woe,</l>
+               <l>In midst of ioy, vnto his deadly han<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</l>
+               <l>Another comes that is of greater might:</l>
+               <l>And dispossesse him of his honour quite.</l>
+               <l>¶ Oh then by losse the griefe doth farre excéede</l>
+               <l>His little ioy in kéeping of the same:</l>
+               <l>Euen so the Churle that by his <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</l>
+               <l>May win a while, the Forte of <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</l>
+               <l>Yet vnawares such fortune may befall,</l>
+               <l>That he may loose, both Honour, coyne and all.</l>
+               <l>¶ And then what griefe the couetous conceiue,</l>
+               <l>By losse of coyne their great and chiefest ioy:</l>
+               <l>A man that hath but one eie may perceiue,</l>
+               <l>That nothing more can bréene their harts annoy.</l>
+               <l>And though their griefe of honour lost be least.</l>
+               <l>Yet who would part with honour once possest?</l>
+               <l>¶ Now they that do by spending frée obtaine,</l>
+               <l>Of many men, perhaps a noble name:</l>
+               <pb facs="tcp:194418:5"/>
+               <l>Yet noble mindes can finde no greater paine,</l>
+               <l>Then want of wealth for to maintaine the same.</l>
+               <l>Whose falling so, doth worke them much despight,</l>
+               <l>As doth their harts bereaue of all delight.</l>
+               <l>¶ But who would séeke the perfect way to clime,</l>
+               <l>To Honours throne, and surely there to sit:</l>
+               <l>Must wisely séeke with obseruance of time,</l>
+               <l>By Vertues line the ready way to hit.</l>
+               <l>For Vertue gaines, in life a noble name:</l>
+               <l>And after death immortall noble Fame.</l>
+               <l>¶ Vertue is it, that onely yéeldoth ioy,</l>
+               <l>A ioy besides that euer will endure:</l>
+               <l>And such a ioy as worketh no annoy,</l>
+               <l>But doth indéede a heauenly ioy procure.</l>
+               <l>Oh ioy of ioyes, by thée God graunt vs all:</l>
+               <l>To clime to heauen, and neuer thence to fall.</l>
+               <l>¶ But let me leaue of Honour now to write,</l>
+               <l>And speake my minde of meaner kinde of ioyes:</l>
+               <l>Which to some mindes do giue a great delight,</l>
+               <l>Yet wisely waide, are nothing else but toyes.</l>
+               <l>And with their ioyes, which are but small indéede,</l>
+               <l>What woes they worke, which farre their ioyes excéede.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Loue,</hi> The fourth pleasure.</head>
+               <l>OF little ioyes, behold this first for one,</l>
+               <l>some, Ladies loue do count a heauenly ioy:</l>
+               <l>In séeking which, some are so woe begone,</l>
+               <l>As harts consume with griefe and great annoy.</l>
+               <l>And some haue bene in loue so ouer shooes,</l>
+               <l>As lacke or losse, makes them their liues to loose,</l>
+               <l>¶ For sundry men, by sundry meanes do séeke,</l>
+               <l>Their Ladies loue or liking to procure,</l>
+               <l>And what they thinke, that may their fancies kéepe,</l>
+               <l>That must they doe, what paine they so endure.</l>
+               <pb facs="tcp:194418:6"/>
+               <l>What gem so rare, may please their mistresse eye:</l>
+               <l>Cost lands and life, but Louers dayly buy.</l>
+               <l>¶ And let wealth waste, then loue begins to shrinke,</l>
+               <l>And when lous shrinkes, then farewell louers ioy:</l>
+               <l>Then wretched wightes, in sorrow so must stucke,</l>
+               <l>And worthy well to ioy in such a toy.</l>
+               <l>As so to séeke, and labour day by day,</l>
+               <l>To purchase that dooth bréede their owne decay.</l>
+               <l>‡ Sée then by loue, what cost, what care, what woe?</l>
+               <l>In getting first, and kéeping then with paine:</l>
+               <l>In getting first, what dayly griefes doe grow,</l>
+               <l>In loosing then, what more despight againe.</l>
+               <l>Oh madhead man, to ioy in such a thing:</l>
+               <l>And with small ioy, doth thousand sorrowes bring.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Horses, Hawkes,</hi> and <hi>Dogs,</hi> The fift Pleasure,</head>
+               <l>ANd so I leaue to write of Louers ioy,</l>
+               <l>Which many wayes doth worke a world of woe:</l>
+               <l>And I will now speake of some other ioy,</l>
+               <l>Which with small ioy, doth diuers sorrowes sowe.</l>
+               <l>As Horses, hawkes, houndes, birdes of diuers sortes,</l>
+               <l>Which to some mindes, doe make delightfull sportes.</l>
+               <l>¶ As first, behold the stately stamping Stéede,</l>
+               <l>That snuffes and snorts, and stands vpon no ground,</l>
+               <l>I must confesse a ioyfull sight in déede,</l>
+               <l>But he that hath the toyle and labour found,</l>
+               <l>In bringing him vnto that passe at first,</l>
+               <l>Will thinke of ioyes, the ioy in horse the worst.</l>
+               <l>‡ Nowe he againe that neuer takes the paine,</l>
+               <l>To breake him so, but haue him broke to hand,</l>
+               <l>I thinke in déede, hath more ioy of the twaine,</l>
+               <l>In stately sort to sée him stamping stand.</l>
+               <l>But if he take delight to ride him too:</l>
+               <l>Let him take héede what then hée séekes to doe.</l>
+               <l>‡ For such a ioy may hap to bréede such woe,</l>
+               <l>By iollitie in ryding without skill:</l>
+               <pb facs="tcp:194418:6"/>
+               <l>That he by fall, may catch so sore a blow,</l>
+               <l>As downe on ground, may make him lye there still.</l>
+               <l>Where broken bones, lim lamde, or bruses sore:</l>
+               <l>Will make him ioy in praunsing horse no more.</l>
+               <l>‡ And if againe he chaunce to sit him fast,</l>
+               <l>Whereby he may the more increase his ioy:</l>
+               <l>Yet is hee not assurde his ioy will last,</l>
+               <l>But it will turne vnto his great annoy.</l>
+               <l>For by ill hap his horse may fall sore sicke,</l>
+               <l>Or halt downe right, by shooing ill, or pricke.</l>
+               <l>¶ Perchance againe he ride him till he sweate,</l>
+               <l>And set him vp vnwalked, somewhat hote:</l>
+               <l>And so doo make him catch so sore a heate,</l>
+               <l>As ten to one if shortly he dye not.</l>
+               <l>And if he dye, then farewell Maisters ioy:</l>
+               <l>And Ryders paynes, and farewell foolish toy.</l>
+            </lg>
+            <lg>
+               <head>Hawkes.</head>
+               <l>SO ioy in Hawkes, good Lord how some delight,</l>
+               <l>To sée them kill a hyrd of meaner strength:</l>
+               <l>Some marke the pitch in making of their flight,</l>
+               <l>Some loue the Hawke that flyeth out at length.</l>
+               <l>Some most of all, the short wingde hawke estéeme,</l>
+               <l>Some long wingde hawkes the brauest birdes doe déeme.</l>
+               <l>‡ Some loue to sée the Goshawke roughly rush,</l>
+               <l>Thorow the woods, and perch from trée to trée,</l>
+               <l>And ceaze vpon the Fesant in the bush,</l>
+               <l>And sure it is a prettie sporte to sée.</l>
+               <l>But in respect of any worthy ioy:</l>
+               <l>God knowes it is but euen a very toy.</l>
+               <l>¶ But let it be to some a great delight,</l>
+               <l>Yet sée what toyle it dayly brings withall:</l>
+               <l>First, if she take a gadding in her flight,</l>
+               <l>Then ride and runne, and marre Horse, man and all.</l>
+               <l>And tyre themselues to séeke a foolish Kite,</l>
+               <l>Yet loofe her too, and then what greater spight?</l>
+               <pb facs="tcp:194418:7"/>
+               <l>¶ And let her be the finest Hawke that is,</l>
+               <l>And neuer gad, nor haue ill qualities:</l>
+               <l>And what shée flyes at, séeld or neuer misse,</l>
+               <l>Yet is shée not quite frée from ieopardies.</l>
+               <l>Some foolish thorne may strike a too her wing,</l>
+               <l>And flying marde, then farewell foolish thing.</l>
+               <l>¶ What should I néede of other Hawkes to write?</l>
+               <l>As Faulcon, Tassell, Lanner, and Lanneret:</l>
+               <l>With little Hawkes, that Ladies take delight</l>
+               <l>Fine Faulknor like, vpon their fift to set.</l>
+               <l>As Sparhawke, Merline, birds I must cenfesss,</l>
+               <l>For Ladies fit, I can well say no lesse.</l>
+               <l>¶ But of all Hawkes, those Hawkes are yet the worst,</l>
+               <l>For if they catch a bruse abroade in flight,</l>
+               <l>Then tender harts, straight into teares they binst,</l>
+               <l>For loosing of a little péeuish Kite.</l>
+               <l>A goodly thing to giue such cause of ioy,</l>
+               <l>As béeing lost, should bréede so great annoy.</l>
+               <l>¶ Now some againe it is a sport to sée,</l>
+               <l>What mone they make, some first will sighing say:</l>
+               <l>It is my lucke, what most delighteth mée,</l>
+               <l>Comes to some mischiefs one or other way.</l>
+               <l>And some will say, my froward dreame to night,</l>
+               <l>Pretended me this day some soule dispight.</l>
+               <l>¶ But let me leaue of Beasts and birds to write,</l>
+               <l>And let me now vnto some other ioyes:</l>
+               <l>Which with delight, doe bréede as great dispight,</l>
+               <l>Which wisely wayde, may well be thought but ioyes.</l>
+               <l>As dauncing, singing, wrestling, leaping too:</l>
+               <l>Which who almost but doeth delight to doo.</l>
+               <l>¶ Which pleasant sports, ere they be well attainde,</l>
+               <l>Do bréede some paine, to them that séeke the same:</l>
+               <l>And some of them ere they be throughly gaind,</l>
+               <l>Doe often strike some limme or other lame.</l>
+               <l>I will not say, though some haue found it so:</l>
+               <l>Some of their sports, doe bréede their deadly woe.</l>
+            </lg>
+            <pb facs="tcp:194418:7"/>
+            <lg>
+               <head>
+                  <hi>Musicke,</hi> The sixt pleasure.</head>
+               <l>BUt let me first of Musicke speake my minde,</l>
+               <l>Which with some sport doth yéeld as great a spight,</l>
+               <l>The little Boy, first by his eares doth finde,</l>
+               <l>In plaine-song pulles is very small delight.</l>
+               <l>In pricke-song then, a priuie pinch or two:</l>
+               <l>Makes him in song, haue little minde vnto.</l>
+               <l>¶ And way the time that wantonly ye spend,</l>
+               <l>First in the Notes, and then againe in Cliffes:</l>
+               <l>How to ascend, and then againe descend;</l>
+               <l>By Larges and Longs, by Bréefes and Semibréefes.</l>
+               <l>Minims, Crochets, Quauers, Sharps, Flats, to faine:</l>
+               <l>
+                  <hi>Vt, re, me, fa, sol, la,</hi> and backe againe.</l>
+               <l>¶ Then when you know your notes and how to sing,</l>
+               <l>Then instruments of Musticke must be had:</l>
+               <l>And then an eare to euery sundry string,</l>
+               <l>Which makes some men, my selfe haue séene halfe mad.</l>
+               <l>For earnest harkening to the Musicks sound;</l>
+               <l>Makes some oft times too farre in Musicks drownd.</l>
+               <l>¶ And is it not a prettie sport thinke you,</l>
+               <l>That makes one mad ere he attaine the same?</l>
+               <l>I take it so, and this belieue me now,</l>
+               <l>Who séekes himselfe to Musikes arte to frame,</l>
+               <l>And very young is set to Musickes schoole,</l>
+               <l>In other artes, proues commonly a foole.</l>
+               <l>¶ It is a sport of troth sometime to sée,</l>
+               <l>A right Musition in his formall grace:</l>
+               <l>How he can looke, as if it were not he,</l>
+               <l>Especially, when that he is in place.</l>
+               <l>Whereas he thinkes himselfe to be the best:</l>
+               <l>For pride or praise, how he can straine his brest.</l>
+               <l>¶ But if there come another into place,</l>
+               <l>Better then he, then downe his feathers fall:</l>
+               <l>Then Frauncis Fidler, with his formall face,</l>
+               <l>Shrinketh aside, and gets him next the wall.</l>
+               <pb facs="tcp:194418:8"/>
+               <l>And for a pound, he sings not one Note more,</l>
+               <l>Where comes a better then he was before:</l>
+               <l>¶ But what? me thinkes that some begins to frowne,</l>
+               <l>To write so much in Fidlers foule dispraise:</l>
+               <l>Why, if there be some such odde <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dling Clowne,</l>
+               <l>As plaies at Hertford on the Hollwayes:</l>
+               <l>And takes the matter so much in disgrace:</l>
+               <l>For all his Fidle, fart in his fooles face.</l>
+               <l>¶ For such Musitions makes some Minious méete,</l>
+               <l>With their swéete harts on some vngratious gréene:</l>
+               <l>Where after each hath other friendly gréete,</l>
+               <l>Somewhat haps else that may not there be séene.</l>
+               <l>As bargaines made, that must be gréed vpon,</l>
+               <l>Behinde some bush, when all the crue is gone.</l>
+               <l>‡ But let me lea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e off low<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ish Musicke now,</l>
+               <l>To write more wordes, and let me somewhat say</l>
+               <l>Of Courtly Musicke, which I say to you,</l>
+               <l>I cannot well repro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e in any way.</l>
+               <l>Although perhaps some wantons thereby finde,</l>
+               <l>A time to play the wantons in their kinde.</l>
+               <l>¶ I meane no harme in that I say in kinde,</l>
+               <l>For wantonnes and wickednes are two:</l>
+               <l>Tis not the grace in any, but the minde,</l>
+               <l>That mooues a man, or good or bad to doe.</l>
+               <l>A merry minde a gentle nature showes:</l>
+               <l>When sullen lookes are signes of surle shrowes.</l>
+               <l>¶ And yet doo some perhaps, in dauncing déeme,</l>
+               <l>That Louers then haue time of great delight,</l>
+               <l>But if two loue one Lady, it must séeme,</l>
+               <l>The ones delight, the others great despight.</l>
+               <l>And if but one, yet then his present ioy:</l>
+               <l>May turne in time vnto as great annoy.</l>
+               <l>‡ For then perhaps he reapes good countenance,</l>
+               <l>Good wordes, and more, perhaps with all good will:</l>
+               <l>Besides, he hath good licence in his Daunce,</l>
+               <l>Without suspect to looke and talke his fill.</l>
+               <pb facs="tcp:194418:8"/>
+               <l>And to receiue great fauour of his friend,</l>
+               <l>Which when his daunce is done, are all at end.</l>
+               <l>¶ And then (alas) consider what despight</l>
+               <l>He bides, to thinke vpon his pleasures past:</l>
+               <l>And sées againe, his swéete and whole delight,</l>
+               <l>With posting spéede to fade away so fast,</l>
+               <l>No greater griefe I thinke can fertune frame:</l>
+               <l>Then win delight, and then to loose the same.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Dauncing,</hi> The seuenth pleasure.</head>
+               <l>ANd touching now the har<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s that often hap,</l>
+               <l>to such as séeke, for to be excellent:</l>
+               <l>In Dauncing catch some time so sore a clap,</l>
+               <l>By froward falles, as makes them to repent,</l>
+               <l>The tumbling tricks, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing on the toe,</l>
+               <l>When leggs doe grow so <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they cannot <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e,</l>
+               <l>¶ And some braue youthes will labour day and night,</l>
+               <l>Till they haue got the Caprey, and crosse poynts</l>
+               <l>But tell me now, how much will they delight</l>
+               <l>When that they sée they legs crost out of ioynt?</l>
+               <l>Or els perhaps with some vntoward fall:</l>
+               <l>Then breake their arme, or sometime necke and all.</l>
+               <l>¶ Oh then behold, in Dauncing what delight,</l>
+               <l>Which bréedes the Dauncers oft: vntimely end:</l>
+               <l>And for my selfe, I sée such great despight,</l>
+               <l>By dauncing growe, as he that were my friend,</l>
+               <l>Sure I would wish him leaue all dauncing quite,</l>
+               <l>Then in such toyes to take so great delight.</l>
+               <l>¶ Besides, sometime in dauncing we doe sée,</l>
+               <l>Quarrels arise, yea, betwixt friend and friend:</l>
+               <l>Which once begun, God knowes but seldome be</l>
+               <l>Without great hurt, brought vnto quiet end.</l>
+               <l>Consider then the great and dire despight:</l>
+               <l>In dauncing growes, in midst of most delight.</l>
+               <pb facs="tcp:194418:9"/>
+               <l>¶ What should I néede of dauncing more to write?</l>
+               <l>First of the paines in learning how to daunce:</l>
+               <l>And then againe how great and foule despight,</l>
+               <l>In dauncing oft to many men doth chaunce.</l>
+               <l>Let this suffize, it is but euen a toy,</l>
+               <l>Whose vse may yéelde a pleasure or annoy.</l>
+               <l>¶ For least I should seeme to dispraise it quite,</l>
+               <l>In prayse of dauncing thus much will I say,</l>
+               <l>Who knowes in déede, how for to vse it right.</l>
+               <l>May daunce full well, I will not say him nay.</l>
+               <l>For so it is an honest exercise:</l>
+               <l>And one in déede of Courtly qualities.</l>
+               <l>¶ But for to set in dauncing such delight,</l>
+               <l>As it should séeme, to giue great cause of ioy:</l>
+               <l>Who déemes it so, they are deceiued quite,</l>
+               <l>For God he knowes, it is but euen a toy.</l>
+               <l>And such a toy, as sure est<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mde in <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>A franticke toy, a man may eas<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ie <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>de.</l>
+               <l>¶ For who would ma<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e sometime the franticke fits,</l>
+               <l>The frisks and turnes, with trickes in sundry sortes:</l>
+               <l>Would thinke a Dauncer, quiteout of his wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>So to deuise to make such skipping sportes.</l>
+               <l>To throw himselfe about house, here and there:</l>
+               <l>As one halfe mad, who well could rest no where.</l>
+               <l>¶ But to be short, as once I said before,</l>
+               <l>I say againe, Dauncing is but a toy:</l>
+               <l>A skipping sport, which bruseth bones so sore,</l>
+               <l>As yéeldes the minde sometime but little ioy:</l>
+               <l>Yet vsde a right, giues cause of great delight,</l>
+               <l>But yet the best it worketh some despight.</l>
+               <l>¶ But leauing Dauncing, and to Leaping now.</l>
+               <l>In which some men doe not a little ioy:</l>
+               <l>Would such as leape, consider well but how,</l>
+               <l>Their leaping bréedes, both lims and harts annoy.</l>
+               <l>Sure they would say, before their legges be burst:</l>
+               <l>Of all odde sportes, yet Leaping is the wurst.</l>
+            </lg>
+            <pb facs="tcp:194418:9"/>
+            <lg>
+               <head>
+                  <hi>Leaping,</hi> The eight pleasure.</head>
+               <l>SOme men leape short, and fall into a ditch,</l>
+               <l>And who leapes so, is laught at for his paine:</l>
+               <l>Some men in leape, their legges giue such a twitch,</l>
+               <l>As ten to one if ere they leape againe.</l>
+               <l>Some their legs slip, and fall vpon their backe:</l>
+               <l>And thinke what paine if once the chine-bone cracke,</l>
+               <l>¶ Some when they slip they fall vpon their arme,</l>
+               <l>And some vpon their head, and thats the worst:</l>
+               <l>And who fals so, may hap to haue such harme,</l>
+               <l>That he may well thinke leaping sporte accurst.</l>
+               <l>And he that leapes most lightly of them all,</l>
+               <l>Shall haue great hap and if he misse a fall.</l>
+               <l>¶ And he that takes in pleasure such delight,</l>
+               <l>As séekes thereby the pricke and praise to gain<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</l>
+               <l>Let him haue skill, and be he nere so light,</l>
+               <l>In leaping yet he straineth euery vaine.</l>
+               <l>Of which, if one he cha<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce to straine <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> farre,</l>
+               <l>He may thereby his leaping wholy marr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>¶ Now some againe will <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a straw,</l>
+               <l>And lightly thinke to leape ouer a klocke:</l>
+               <l>But who leapes so, will proue himselfe a Daw,</l>
+               <l>And on his shinnes perhaps receiue a knocke.</l>
+               <l>But now such leapes are <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eant mother way,</l>
+               <l>And therefore now no more of Leapes I say.</l>
+               <l>¶ Saue onely this, that I would wish each one,</l>
+               <l>For to delight, and vse his leaping so:</l>
+               <l>As that he venter not to breake a bone,</l>
+               <l>Nor vnawares, doe worke himselfe such woe,</l>
+               <l>As that he finde it not to his despight:</l>
+               <l>Rather a paine then any swéete delight.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Wrastling,</hi> The ninth pleasure.</head>
+               <l>ANd as of leaping, so of wrastling too,</l>
+               <l>Which with the rest, may well be thought a toy:</l>
+               <pb facs="tcp:194418:10"/>
+               <l>Yet some doe so delight in kinde to doe,</l>
+               <l>As that they take in wrastling such a ioy,</l>
+               <l>As for to giue their foe a cleanly fall:</l>
+               <l>They venter will, both him and life and all.</l>
+               <l>¶ And some in wrastling wrest <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>legge a two,</l>
+               <l>And some an arme, some backe-bone now and than,</l>
+               <l>And some to breake a Wrastlers necke, will doe</l>
+               <l>In wrastling oft, the best or worst he ran.</l>
+               <l>And is it not a prettie kinde of spor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>That bréedes delight in such despight in such despi<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>full <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>¶ What should I néede of <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to writs?</l>
+               <l>Who loues the sport, much good doe them with all,</l>
+               <l>For I my selfe would rather stand vp<gap reason="illegible" resp="#keyers" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>,</l>
+               <l>Then put my life in venture for a fall</l>
+               <l>And he who sets therein his grea<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ioy,</l>
+               <l>In time shall finde it but a <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> toy.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Climing,</hi> The tenth pleasure.</head>
+               <l>ANd as of Leaping, so <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me men againe,</l>
+               <l>In climing to, do tak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> delight;</l>
+               <l>Which halfe way vp, come <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> againe,</l>
+               <l>I will not say how much, to their despight.</l>
+               <l>For commonly, who falleth <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a loft,</l>
+               <l>It is most like he falls not very soft.</l>
+               <l>¶ The countrey Clowne, <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a trée,</l>
+               <l>And he that climes the straightest tree of all,</l>
+               <l>He is the man, Man wilthaue no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e but he.</l>
+               <l>But if in climing Thomas take a fall,</l>
+               <l>Then all is marde, and ah poore fillie Tom,</l>
+               <l>Hath lost his loue, and must goe limping h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ue.</l>
+               <l>¶ And if he scape and get vp like a man,</l>
+               <l>What is his gaine, except a nest of Rookes?</l>
+               <l>And for his paynes, he getteth of his Man,</l>
+               <l>A kindely kisse, and two or thrée swéete lookes.</l>
+               <l>But Sir, and that may proue in time,</l>
+               <l>Enough to make him merely to clime.</l>
+               <pb facs="tcp:194418:10"/>
+               <l>¶ Some lusty Simon on a sunday too,</l>
+               <l>Will clime a May-pole for his Susans sake:</l>
+               <l>And on the top will hang a handkirchoo,</l>
+               <l>For him that dare, downe thence againe to take.</l>
+               <l>But if both he and handkircher fall downe,</l>
+               <l>He likes no more of climing for devine.</l>
+               <l>‡ But leauing lowtes, some gallant youthes delight,</l>
+               <l>In ships by ropes the gallant top to clime:</l>
+               <l>Who if they hap to misse their climing right,</l>
+               <l>They kill a Marriner at the first time,</l>
+               <l>And get they vp, what is it but a toy?</l>
+               <l>A practise méete but for a desperate boy.</l>
+               <l>¶ And he againe that best of all can scape,</l>
+               <l>And climes top gallant, May pole, or a trée</l>
+               <l>Yet for his life he climbes not like an Ape,</l>
+               <l>And let him clime, hée climes alone for me.</l>
+               <l>And for my life, when he hath climde his best,</l>
+               <l>He thinks himselfe on ground yet most at rest.</l>
+               <l>‡ Now some againe vngracious grafts sometime,</l>
+               <l>Both willingly, and yet against their will:</l>
+               <l>Doe séeke the meane, thrée trées at once too clime,</l>
+               <l>But who climes so may thinke his climing ill.</l>
+               <l>For by a ladder by they go in hast,</l>
+               <l>And by a rope they tumble downe as fast.</l>
+               <l>¶ And tell me now, way climing well in<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e,</l>
+               <l>And I beléeue that you will iustly say:</l>
+               <l>So little is the good that one shall finde,</l>
+               <l>And dangers such in climing any way.</l>
+               <l>That he that climes the cunningest of all,</l>
+               <l>Is many waies yet subiect to a fall.</l>
+               <l>¶ Call but to minde, how <hi>Pha<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ton</hi> sometime,</l>
+               <l>With willfull climing, fell from losty sky:</l>
+               <l>And brake his necke, how <hi>Icarus</hi> would clime,</l>
+               <l>With <hi>Dedalus,</hi> but soring too too hie.</l>
+               <l>To fathers griefe God wot, as lowe he fell,</l>
+               <l>With other mo, that were too long to tell.</l>
+               <pb facs="tcp:194418:11"/>
+               <l>¶ Let this suffise, I thinke it not vnméete,</l>
+               <l>For ship-mens boyes, top gallant for to clime:</l>
+               <l>And for such clownes, as thinke Rookes flesh is swéete,</l>
+               <l>To clime by leasure such odde <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ées sometime.</l>
+               <l>But this I say, to gaine a Keisars cope:</l>
+               <l>Clime not thrée trées, to fall dow<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by a rope.</l>
+               <l>¶ Besides, I warne each one that hath no skill,</l>
+               <l>To clime no higher then féets may touch the ground:</l>
+               <l>Let him clime vp, and clime, and clime his fill,</l>
+               <l>For though he fall, it bréedes no dead <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> Wound.</l>
+               <l>Besides I wish, no man to <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Nor yet to clime, more then of force he must.</l>
+               <l>¶ For if the clowne that climeth vp a frée,</l>
+               <l>A bough doe breake, and he let slip his hold:</l>
+               <l>With heaue and hoe, then t<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ling downe comes he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>And God he knowes his peny wordth is colde.</l>
+               <l>For all the Rookes nestes all the to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e can clime,</l>
+               <l>Makes not amends for his hurt that one time.</l>
+               <l>¶ Euen so in shippe, the boy that séekes to clime,</l>
+               <l>By cordes and lines, if either rope doe <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ippe,</l>
+               <l>Or hand or foote, as man<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doe same <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</l>
+               <l>Then downe a maine he falle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into the shippe.</l>
+               <l>Or in the Sea, where hundreth then to one;</l>
+               <l>He neuer scapes, ther's one young Sea-man gone.</l>
+               <l>¶ Yet doe I not forbid to clime at all,</l>
+               <l>For some must clime, and those: I well allo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</l>
+               <l>But yet I wish the best to feare a fall,</l>
+               <l>And those that clime at all, to clime, but how?</l>
+               <l>When néede requires, and then so carefully,</l>
+               <l>As that they come not downe too hastily.</l>
+               <l>¶ For some must clime, as in assault sometime,</l>
+               <l>Some men of force must séeke to scale a forte:</l>
+               <l>Then happy he, that cunningly can clime,</l>
+               <l>By ropes or Ladders, or by any sorte.</l>
+               <l>That is, and he of glory gaines the crowne,</l>
+               <l>Thats soonest vp, and late<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t throwen downe.</l>
+               <pb facs="tcp:194418:11"/>
+               <l>¶ So then I say, of climing thus I end,</l>
+               <l>Who climeth best, findes climing but a toy:</l>
+               <l>And I would warne each one I count my friend,</l>
+               <l>For to conceiue in climing little ioy.</l>
+               <l>Least that he finde in climing his delight:</l>
+               <l>By breake-necke falles to bréede his deadly spight.</l>
+               <l>¶ And as of climing, so in Fencing now,</l>
+               <l>Artes much alike, wherein too many ioy:</l>
+               <l>Which foolish ioy dooth bréede I say to you,</l>
+               <l>To thousands of your deadly hartes annoy.</l>
+               <l>As in my minde, a most accursed sort:</l>
+               <l>To bréede delight in such despightfull sport.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Fencing,</hi> The eleuenth pleasure.</head>
+               <l>NOw sir, this ioy in Arte of great Defence,</l>
+               <l>Which of Offence may rather well be namde?</l>
+               <l>Is not obtaind without some great expence,</l>
+               <l>Nor yet without some lim or other lamde.</l>
+               <l>Except by hap, you chance to scape the worst,</l>
+               <l>And yet you part then with your noddle burst,</l>
+               <l>¶ And let me but demaund this question now,</l>
+               <l>Will you be pleasd with him that brake your pate?</l>
+               <l>Or will you not, almost you care not how,</l>
+               <l>Séeke your reuenge, and beare him deadly hate,</l>
+               <l>Vntill you be reuenged in like sorte:</l>
+               <l>And tell me then, is not this prettie sporte?</l>
+               <l>¶ Perhaps againe, you haue your eye thrust out,</l>
+               <l>Or catch a scratch crosse ouerthwart your face:</l>
+               <l>Or else be swadled roughly round aboute,</l>
+               <l>Both shoulders, sides, armes, legs, and euery place.</l>
+               <l>At parting now, Sir when you féele the smart:</l>
+               <l>Will you not thinke Fencing a ioyfull Arte?</l>
+               <l>¶ By Fencing growes our termes of the Brauado,</l>
+               <l>Our foines and thrusts, the deadly stabbe and all:</l>
+               <l>Which some more finely call a Stabbado,</l>
+               <l>And some a blowe, a cleanly wipe can call.</l>
+               <pb facs="tcp:194418:12"/>
+               <l>And some a rake, that crosseth both the shinnes,</l>
+               <l>Now with such stuffe this ioyfull sport beginnes.</l>
+               <l>¶ Lie héere, lie there, strike out your blow at length,</l>
+               <l>Strike and thrust with him, looke to your dagger hand:</l>
+               <l>Beléeue me sir, you beare a gallant strength,</l>
+               <l>But chuse your ground, at vantage where to stand,</l>
+               <l>And kéepe a loofe for catching too much harme:</l>
+               <l>Beware the button of your Buckler arme.</l>
+               <l>¶ With other termes that were too long to tell,</l>
+               <l>Besides, my selfe haue small skill in that arte,</l>
+               <l>But this I wot, vnto my cost too well,</l>
+               <l>A wasters end hath made my shoulders smart.</l>
+               <l>And when by chaunce I caught a smoaking blow.</l>
+               <l>I put it vp, or take two or thrée moe.</l>
+               <l>‡ And sure I thinke, who doth in déede delight,</l>
+               <l>To follow Fencing, as some swashers doe:</l>
+               <l>Shall be thereby so boldened for to fight,</l>
+               <l>As willfull end, in time will bring them to.</l>
+               <l>Except that God doe giue them grace in déede,</l>
+               <l>To vse their arte but in defence at néede.</l>
+               <l>‡ And vsed so, it will not doe amisse,</l>
+               <l>And so I thinke some skill is requisite:</l>
+               <l>But I cannot like very well of this,</l>
+               <l>That any man should so therein delight:</l>
+               <l>As he should set therein so great a ioy,</l>
+               <l>As many doe, vnto their great annoy.</l>
+               <l>¶ What should I néede, of Fencing more to write,</l>
+               <l>Well <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thinke it is a pretie arts:</l>
+               <l>But <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> leaue, who doth therein delight,</l>
+               <l>Shall buy his pleasure, with his bodies smart.</l>
+               <l>And so I end, vse it to saue your life:</l>
+               <l>But let it not make you to liue in strife.</l>
+               <l>¶ And then in Gods name, vse it at your will,</l>
+               <l>So that you vse it to your owne defence:</l>
+               <l>But if in fight, you chance your foe to kill,</l>
+               <l>His death will sure abide your conscience.</l>
+               <pb facs="tcp:194418:12"/>
+               <l>Yet for all that vse it but to defend:</l>
+               <l>And learne the arts, it will not much offend.</l>
+               <l>¶ But as I said before, I say againe,</l>
+               <l>Learne it, but loue it not, in any wise:</l>
+               <l>Least little pleasure bréede your paine,</l>
+               <l>By hurt, by maine, or deadly ieopardies.</l>
+               <l>And thinke it but an arte of small delight,</l>
+               <l>Which many wayes doth worke full great despight.</l>
+               <l>¶ But leauing now, of Fencing more to write,</l>
+               <l>There is as now another kinde of ioy:</l>
+               <l>Wherein some men, doe take so great delight,</l>
+               <l>As that in time it bréedes their great annoy,</l>
+               <l>They toyle themselues, and thrift they throw away,</l>
+               <l>And lame their legs to learne a foolish play.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Tennis,</hi> The twelft pleasure.</head>
+               <l>WHat sport is it to cut a Ball in kinde,</l>
+               <l>Or strike a Ball into the hazard fine:</l>
+               <l>Or bandie Balles, to flie against the winde,</l>
+               <l>Or strike a ball low, leuell ore the line.</l>
+               <l>Or make a Chase or hazard for a game,</l>
+               <l>Then with a brickle wall to winne the same.</l>
+               <l>¶ Oh braue delightes, but he that thinkes vpon</l>
+               <l>The vnknowne charge that groweth by the same,</l>
+               <l>Will say, when once his store of coyne is gone,</l>
+               <l>Of all sportes, Tennis is a costly game.</l>
+               <l>Which cost considered, soone will driue away,</l>
+               <l>The déere delight that growes by Tennis play.</l>
+               <l>¶ Yet will I not dispraise the Tennis so,</l>
+               <l>That I would wish no man should vse the same.</l>
+               <l>For by the game no hurt is like to grow,</l>
+               <l>Except a man doe too much vse the same.</l>
+               <l>For I would haue it vsde for exercise:</l>
+               <l>In some cold mornings, and not otherwise.</l>
+               <l>¶ For as I said in other things before,</l>
+               <l>Tis not the thing, but the delight therein:</l>
+               <pb facs="tcp:194418:13"/>
+               <l>That makes or marres, delightes or gréeueth sore,</l>
+               <l>Then take good héede, when first you doe begin.</l>
+               <l>To take delight in any kinde of thing:</l>
+               <l>For too much ioy doth after sorrow bring.</l>
+               <l>¶ Then vse the Tennis, wisely now and than,</l>
+               <l>To exercise your lustlesse limmes withall:</l>
+               <l>And doe not thinke to doe more then you can,</l>
+               <l>With labouring and toyling at a ball,</l>
+               <l>Least that you thinke, in stead of swéete delight:</l>
+               <l>With painefull toyle you buy a déere despight.</l>
+               <l>¶ And as of Tennis, so againe I finde:</l>
+               <l>In other sportes, as shooting, bowling too:</l>
+               <l>Wherein too many, so much set their minde,</l>
+               <l>As all day long they little els can doe.</l>
+               <l>Would they but way the woes thereby they win:</l>
+               <l>And they would leaue their fond delight therein.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Shooting,</hi> The thirteenth pleasure.</head>
+               <l>WHat sporte it is to sée an arrow flie,</l>
+               <l>A gallant archer cleanly draw his bowe?</l>
+               <l>In shooting off, againe how cunningly,</l>
+               <l>He hath his loose, in letting of it goe?</l>
+               <l>To nocke it sure, and draws it to the head:</l>
+               <l>And then flie out, hold straight, and strike it dead.</l>
+               <l>¶ With other termes that Archers long haue vsde,</l>
+               <l>As blow winde, stoupe, ah, downe the winde a bowe:</l>
+               <l>Tush, sayes another, he may be excusde,</l>
+               <l>Since the last marke, the winde doth greater grow.</l>
+               <l>At last he claps in the white suddainely,</l>
+               <l>Then oh well shot the standers by doe cry.</l>
+               <l>¶ And that one shoote; is euen enough to make,</l>
+               <l>Him sell his coate for store of bowe and shafts:</l>
+               <l>The cost whereof will make his hart to ake,</l>
+               <l>And make him draw but few delightfull drafts.</l>
+               <l>Therefore say I, in shooting the delight,</l>
+               <l>Dooth likewise bréede with pleasure some despight.</l>
+               <pb facs="tcp:194418:13"/>
+               <l>¶ I doo not speake particularly of all,</l>
+               <l>The harmes that hap vnto an archers purse:</l>
+               <l>As bow may breake, string cracke, and feathers fall,</l>
+               <l>With other haps, that makes them sweare and curse.</l>
+               <l>As when sometime there raines a suddaine showre,</l>
+               <l>That bowe and shafts may marre all in an howre.</l>
+               <l>¶ Therefore vse shooting as an exercise,</l>
+               <l>To passe the time, but loue it not too much:</l>
+               <l>Least with the sport you finde the costly price,</l>
+               <l>Doe make your hart such deare delights to grutch.</l>
+               <l>Therefore vse it, but as a pretie toy:</l>
+               <l>To passe the day, but count it not a ioy.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Bowling,</hi> The fourteenth pleasure.</head>
+               <l>ANd now to Bowles, a pretty kinde of sport.</l>
+               <l>Wherein so many take so great delight:</l>
+               <l>That euery day such numbers dee resort.</l>
+               <l>To bowling Allies, that both day and night,</l>
+               <l>If light would serue they would not be away,</l>
+               <l>But wast their wealth vpon that foolish play.</l>
+               <l>¶ How some delight, to sée a round Bowle run,</l>
+               <l>Smoothely away, vntill he catch a rub:</l>
+               <l>Then hold thy bias, if that cast were wan,</l>
+               <l>The game were vp as sure then as a club.</l>
+               <l>Then vpright Bowles, that néede not any banke,</l>
+               <l>And for a game, a fine throw in the cranke.</l>
+               <l>¶ But if they markt their money run away,</l>
+               <l>Their coyne to crosse quite by as from their purse:</l>
+               <l>T'would make them leaue that costly kinde of play,</l>
+               <l>And liking take in bowling sporte the wurse.</l>
+               <l>And yet the sport well vsde, will yéeld delight:</l>
+               <l>But loue it not, for then it bréedes despight.</l>
+               <l>¶ For ioy in games to other kinde of ioyes,</l>
+               <l>Wherein some men, their chiefe delight repose:</l>
+               <l>Which wayed well, may well be thought but toyes,</l>
+               <l>Wherein both cost and labour eke we lose.</l>
+               <pb facs="tcp:194418:14"/>
+               <l>As Fishing, Fowling, and such like delights:</l>
+               <l>Which some doe loue to follow dayes and nights.</l>
+               <l>¶ But loe, beholde, what great delight we finde,</l>
+               <l>In Fishing first, in diuers sundry sortes:</l>
+               <l>With Nets, and Angles, Wéeles, and other kinde,</l>
+               <l>Or pretie ginnes, which yéelde delightfull sportes.</l>
+               <l>And with the sportes, lets fée the spight withall:</l>
+               <l>That oftentimes in Fishing dooth befall.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Fishing,</hi> The fifteene pleasure.</head>
+               <l>SOme take delight with Angle for to stand,</l>
+               <l>Néere halfe a day, to catch a Pickerell:</l>
+               <l>And standing so with Angle in his hand,</l>
+               <l>Perhaps he takes a paltry Shotrell.</l>
+               <l>That what a man hath taken with such paine,</l>
+               <l>He straight would throwe into the brooke againe.</l>
+               <l>¶ Some with a worme doe mogle for an Eel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Some for a Carpe doe angle with a S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aile:</l>
+               <l>But if the hooke doe catch within a Wéele,</l>
+               <l>Then must of force the fishers cunning faile.</l>
+               <l>For loose the hooke, and fray thy fish away,</l>
+               <l>And stand againe without abite all day.</l>
+               <l>¶ And is it not a wearie kinde of sport,</l>
+               <l>To angle all day for a foolish dish:</l>
+               <l>And loose the hooke in such despightfull sorte,</l>
+               <l>And that perhaps or ere you catch a fish.</l>
+               <l>Me thinkes it should be such a foule despight,</l>
+               <l>As I should take in angling no delight.</l>
+               <l>‡ Some for a Troute, will angle with a flie,</l>
+               <l>Some for a Roche, a gentill make their baite:</l>
+               <l>Some make their Flies of colours cunningly,</l>
+               <l>Of silke and haire, a prettie fine deceite</l>
+               <l>For foolish fishe, and yettis but a toy,</l>
+               <l>Vnworthie farre for to be thought a ioy.</l>
+               <l>¶ And yet some men doe so herein delight,</l>
+               <l>As in the making of these foolish flies,</l>
+               <pb facs="tcp:194418:14"/>
+               <l>They will attend their worke both day and night,</l>
+               <l>And in the morning vp betimes arise.</l>
+               <l>And to the brooke, and angle there all day,</l>
+               <l>And yet perhaps come emptie hand away.</l>
+               <l>¶ Then iudge what spight the Fisher doth abide,</l>
+               <l>To loose his paines, and yet receiue no sport:</l>
+               <l>If I said naught, yet some that well haue tride,</l>
+               <l>The like themselues, and fished in like sorte,</l>
+               <l>Will say with me, it is a spightfull toy,</l>
+               <l>Which with much griefe doth yéeld but little ioy.</l>
+               <l>¶ Some loue to fish with trammell, drags, bow nets,</l>
+               <l>With casting nets, and nets of other sortes:</l>
+               <l>Wherein some man his pleasure wholy sets,</l>
+               <l>And greatly cares not for no other sportes.</l>
+               <l>But let him looke hee doe not play the foole,</l>
+               <l>That with his Net, he fling into the poole.</l>
+               <l>¶ And he that dreggeth like a water dog,</l>
+               <l>And wades to knées to catch a dish of fish:</l>
+               <l>And in the end doth draw vp but a frog,</l>
+               <l>Is not he well at ease with such a dish?</l>
+               <l>Who would not be a Fisherman to gaine,</l>
+               <l>Such daintie morsels to requite his paine?</l>
+               <l>¶ Perhaps againe, with wading well all day,</l>
+               <l>He catch such cold as sicknes doe insue:</l>
+               <l>An Ague then will make him shaking say,</l>
+               <l>Too late (alas) my fond delight I rue.</l>
+               <l>This wading sport, dooth yéelde so great annoy,</l>
+               <l>As that I finde in Fishing little ioy.</l>
+               <l>¶ Now some againe, besides their labour lost,</l>
+               <l>And falling sicke with catching colde by wet:</l>
+               <l>By mashes breake, may hap to be at cost,</l>
+               <l>For Lines, and Corkes, and mending of the Net,</l>
+               <l>And that dayes worke, the mending be so déere,</l>
+               <l>As fishing scarce will pay for in a yéere.</l>
+               <l>¶ What should I say of Fishing more then this,</l>
+               <l>Fishing vsde well, may séeme a prettie sporte:</l>
+               <pb facs="tcp:194418:15"/>
+               <l>But no delight but may be vsde amisse,</l>
+               <l>Then take delight in fishing in such sorte:</l>
+               <l>As that it proue not too much to your cost:</l>
+               <l>Nor yet lament your labour too much lost.</l>
+               <l>¶ For Fishing sport I can not iustly blame,</l>
+               <l>If it be vsed as it ought to be:</l>
+               <l>But such delight as some haue in the same,</l>
+               <l>I cannot chuse but blame, when as I sée</l>
+               <l>Some sicke, some drownd, with following the ioy,</l>
+               <l>They doe conceiue in such a foolish toy.</l>
+               <l>¶ And as of fishing, so againe I finde,</l>
+               <l>In Fowling to the ioy that some conceiue:</l>
+               <l>Would some that Fowle, but wisely way in minde,</l>
+               <l>And they should soone their ouer-sights perceiue.</l>
+               <l>When they estéeme those thinges delightfull ioyes,</l>
+               <l>Which as they vse, doe proue despightfull toyes.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Fowling,</hi> The sixteenth pleasure.</head>
+               <l>SOme men will toyle in water, frost and snow,</l>
+               <l>To set a Lymetwig for a foolish Snite:</l>
+               <l>And glad for colde, his fingers ends to blow,</l>
+               <l>And so stand plodding all day long till night.</l>
+               <l>And for wild Fowle, euen like a peaking mome,</l>
+               <l>To catch a Snipe, and beare a tame foole home.</l>
+               <l>¶ Now some againe, goe stalking with a Gun,</l>
+               <l>To kill a Herne, a Shooluerd or a Cra<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e:</l>
+               <l>Who plodding so, ere fowling time be done,</l>
+               <l>Doe misse the Fowle, and bréede their suddaine bane.</l>
+               <l>As if the péece should breake in cracks or flawes,</l>
+               <l>Or else recoyle, and strike a two his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>awes.</l>
+               <l>¶ Or else the winde may hap to blowe the fire,</l>
+               <l>Vpon his face, and marre his visage quite:</l>
+               <l>Then tell me now, what he would not desire,</l>
+               <l>To goe a Fowling for such swéete delight.</l>
+               <l>Tush, many moe such mischiefes doe I know,</l>
+               <l>Which Fowlers finde, but were two long to show.</l>
+               <pb facs="tcp:194418:15"/>
+               <l>¶ But least that some should count me for a foole,</l>
+               <l>For to dispraise the sport in Fowling quite:</l>
+               <l>I say no more, but fall not in the poole,</l>
+               <l>Catch not a Snipe, in setting for a Snite.</l>
+               <l>Looke to the Péece, kéepe thy face from the fire,</l>
+               <l>And Fowle in Gods name to thine owne desire.</l>
+               <l>¶ But loue it not too much, but as it is,</l>
+               <l>Esteeme it so, a hard cold sport in deede,</l>
+               <l>Which vsde aright, is pleasant, but amisse,</l>
+               <l>Yéeldes diuers griefes, therefore no more then néede.</l>
+               <l>Follow the sport, nor take therein delight:</l>
+               <l>Too much I meane, least it doe worke thée spight.</l>
+               <l>¶ And thus I leaue to speake more of such sportes,</l>
+               <l>As with delight doe bréede as great despight,</l>
+               <l>And of delights in other sund<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y sor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es,</l>
+               <l>That dayly grow, I ni<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e my <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inde <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+               <l>Which waied well, are all but foolish to yes:</l>
+               <l>Which with great griefes doe yéeld but little ioyes.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Studies,</hi> The seuenteene pleasure.</head>
+               <l>SOme men delight all day to breake their br<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>o,</l>
+               <l>With studie strange, as some will spend their time.</l>
+               <l>In Phisicke, Lawe, and some will take great paine,</l>
+               <l>In Musickes arte, and some will séeke to elime,</l>
+               <l>The skies by studie in Astronomie:</l>
+               <l>Some compasse countries by Cosm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>graphy.</l>
+               <l>‡ Some men great paines in Nigremancie take,</l>
+               <l>Some loue to studie Phisiognomie:</l>
+               <l>Which studies make both braines and hart to ake,</l>
+               <l>And maketh many starke mad ere they dye.</l>
+               <l>Some loue to be thought good Paimesters,</l>
+               <l>And thousands séeke to be Philosophers.</l>
+               <l>¶ Some loue to studie most Arithmatike,</l>
+               <l>In Logicke some doe dayly beate their braine:</l>
+               <l>And some delight as much in Rethoricke,</l>
+               <l>And some doe ioy in histories againe.</l>
+               <pb facs="tcp:194418:16"/>
+               <l>But very few doe take delight in déede,</l>
+               <l>To studie that whereof they most haue néed.</l>
+               <l>¶ By which who loues, shall finde a heauenly ioy,</l>
+               <l>A ioy besides that neuer will decay:</l>
+               <l>And with the ioy, yéeldes no iote of annoy,</l>
+               <l>But teacheth vs to heauen the ready way.</l>
+               <l>Which studie is Diuinitie by name:</l>
+               <l>God graunt vs all to studie well the same.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Phisicke,</hi> The eighteene pleasure.</head>
+               <l>IN Phisickes arte, lets sée what ioy we finde,</l>
+               <l>We heale the sicke by Medicines we make:</l>
+               <l>By vertues rare, of hearbes of sundry kinde,</l>
+               <l>By waters, oyles, and how we ought to take,</l>
+               <l>Each in his kinde, how best it may preuaile:</l>
+               <l>This Phisickes ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e doth shew for our auaile.</l>
+               <l>¶ But if the man that is of greatest skill,</l>
+               <l>Haue not great care, in vsing of this arte:</l>
+               <l>May minister a medicine to kill,</l>
+               <l>When as he thinkes, to ease the sicke mans smart.</l>
+               <l>And who doth so may thinke himselfe accurst,</l>
+               <l>And Phisicke count of studies all the worst.</l>
+               <l>¶ But he that takes such care in each respect,</l>
+               <l>And feares the worst, and séekes to doe his best,</l>
+               <l>Regardes the cause, doth not the time neglect,</l>
+               <l>But wisely workes to bréede his patients rest.</l>
+               <l>In Phisickes arte, well hath he taken paine:</l>
+               <l>Gods fauour, and good Fame, shall be his gaine.</l>
+               <l>¶ But if he so be setled in that arte,</l>
+               <l>And that he count that studie for his ioy:</l>
+               <l>How best to séeke to ease the bodies smart,</l>
+               <l>And séeke no medicine for the soules annoy.</l>
+               <l>When that himselfe in fine, of force must die?</l>
+               <l>Oh then where shall his soule for comfort cry?</l>
+               <l>¶ Let him haue spent some time in sacred writ,</l>
+               <l>And in that studie set his chiefe delight,</l>
+               <pb facs="tcp:194418:16"/>
+               <l>And he shall there soone finde a medicine fit,</l>
+               <l>To salue and saue his soule from perrill quite.</l>
+               <l>Oh blessed studie, that doth shew reliefe,</l>
+               <l>To soule and bodie in their greatest griefe.</l>
+               <l>¶ In holy writ we learne how to lament,</l>
+               <l>Our sinfull life, wherewith we God offend:</l>
+               <l>There we are taught our sinnes for to repent,</l>
+               <l>And there we learne how soone we may amend.</l>
+               <l>There doe we reade, that God must be the meane,</l>
+               <l>To cleanse our soules from all offences cleane.</l>
+               <l>¶ There doe we finde, that penitence procures,</l>
+               <l>Pardon of God, with pardon, pittie to:</l>
+               <l>Which pittie sends such comfort, as soone cures</l>
+               <l>The greatest hurt that worldly woes can doe.</l>
+               <l>And there we finde, Gods mercie yéelds at last,</l>
+               <l>The ioyes of heauen, when worldly woes are past.</l>
+               <l>¶ If Phificke then may yéeld so great delight,</l>
+               <l>For teaching vs to saue the bodies smart:</l>
+               <l>The studie then that soule and bodie quite,</l>
+               <l>Kidds of all woe, doth it not passe all arte,</l>
+               <l>Yes out of doubt, that yéeldes the onely ioyes:</l>
+               <l>To which comparde, all studies are but toyes.</l>
+               <l>¶ Then studie Phisicke for necessitie,</l>
+               <l>To heale a hurt, or ease the sicke-mans smart:</l>
+               <l>But let thy ioy be in Diuinitie,</l>
+               <l>Which waied well, excelleth euery arte.</l>
+               <l>For Phisicke serues but for the bodies griefe,</l>
+               <l>Diuinitie doth yéelde the soules reliefe.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Lawe,</hi> The nineteene pleasure.</head>
+               <l>ANd leauing thus of Phisicke more to write,</l>
+               <l>Lets sée what ioy in studie of the Lawe,</l>
+               <l>Some men thereby perhaps doe take delight,</l>
+               <l>To make wrong right, and right not worth a straw.</l>
+               <l>Which yéelds God knowes, the poore mans great despight</l>
+               <l>To be by wrong bereaued of his right.</l>
+               <pb facs="tcp:194418:17"/>
+               <l>¶ And when perhaps the Lawier calls to minde,</l>
+               <l>The wrong so wrought, and weighes the poore mans case,</l>
+               <l>He doth in time within his conscience finde,</l>
+               <l>Such great vnrest, as resteth in no place.</l>
+               <l>And thinke you then by Law what gr<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ous ioy,</l>
+               <l>Which bréedeth so the secrete hartes <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+               <l>¶ Yet will I not so much dispraise the Law,</l>
+               <l>That I would wish no man to like the same:</l>
+               <l>For then I might be counted well a Daw,</l>
+               <l>But this I say, who séekes himselfe to frame,</l>
+               <l>To studie Law, I wish him first of all,</l>
+               <l>To studie of Diuinitie to fall.</l>
+               <l>‡ There first to learne his studie how to vse,</l>
+               <l>To learne the Law, thereby his owne to kéepe:</l>
+               <l>And not as some the studie doe abuse.</l>
+               <l>By shifts in Law, in others rights to créepe.</l>
+               <l>And so by wrong to purchast worldly wealth,</l>
+               <l>As that it proue a hurt to his soules health.</l>
+               <l>¶ Then first peruse the sacred Lawes of God,</l>
+               <l>How he doth will, that we our Lawes should vse,</l>
+               <l>And iustly how he scourgeth with his rod,</l>
+               <l>All such as scorne, or else his Lawes refuse.</l>
+               <l>And then to Law, to learne to kéepe thy right:</l>
+               <l>And helpe thy friend, let be thy whole delight.</l>
+               <l>¶ But in respect of holy Lawes I say,</l>
+               <l>Account our studies in the Lawe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but toyes:</l>
+               <l>When scripture showes the onely ready way,</l>
+               <l>For to attaine to euerlasting ioyes.</l>
+               <l>Let then I say, Deuinitie be thought,</l>
+               <l>The onely ioy, to which the best is nought.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Astronomie</hi> and <hi>Phisiognomie</hi> The twentie Pleasure.</head>
+               <l>SO could I write to of Astronomie,</l>
+               <l>By which we clime into the loftie skie:</l>
+               <pb facs="tcp:194418:17"/>
+               <l>And so againe of Phisiognomie,</l>
+               <l>Whereby by face, we wonders doe descrie,</l>
+               <l>Diuinitie heaues vs aboue the skie,</l>
+               <l>And doth to vs the power of God descrie.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Cosmographie,</hi> and <hi>Philosophie,</hi> The one and twentie Pleasure.</head>
+               <l>NOw sée the ioy got by Cosmographie,</l>
+               <l>We compasse countries, learnedly by arte:</l>
+               <l>And what delight by fine Philos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>By reason strange, to proue on eyther parte,</l>
+               <l>False iudgement true, and further to descrie:</l>
+               <l>Secretes in nature, by Philosophie.</l>
+               <l>‡ By wholy writ, the way to heauen we finde,</l>
+               <l>A countrie farre aboue the loftie skie:</l>
+               <l>By sacred Lawes, we can confute in kinde,</l>
+               <l>The vniust cause, and proue the contrary.</l>
+               <l>By Scriptures eke, Gods nature plaine we finde:</l>
+               <l>Iust, mercifull, and to his seruants kinde.</l>
+               <l>¶ Now sée how farre this Rudie doth surpasse,</l>
+               <l>All studies else, what so without respect:</l>
+               <l>Then may he be iustly thought an asse,</l>
+               <l>Which dooth this studie any thing neglect?</l>
+               <l>And counteth not all other studies toyes,</l>
+               <l>Comparde to this, which yéeldeth heauenly ioyes.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Musicke,</hi> The twentie pleasure.</head>
+               <l>IN Musicke now, a great delight we finde,</l>
+               <l>And sure it is a prettie kinde of arte:</l>
+               <l>But oh that we would settle once our minde,</l>
+               <l>To tune our tongues, with sound of humble hart.</l>
+               <l>To sing due lawde vnto the Lorde on hie:</l>
+               <l>Oh that would séeme an heauenly harmonie.</l>
+               <pb facs="tcp:194418:18"/>
+               <l>¶ And now the ioyes got by Arithmaticke,</l>
+               <l>To number much within a little time:</l>
+               <l>And some doe loue to rowle in Rethoricke,</l>
+               <l>Some best like prose, and some delight in Rime.</l>
+               <l>And yet all these considered well in minde,</l>
+               <l>But trif<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing toyes the true Diuine doth finde.</l>
+            </lg>
+            <lg>
+               <head>
+                  <hi>Diuinitie,</hi> The twentie three pleasure.</head>
+               <l>DIuinitie dooth number out our dayes,</l>
+               <l>And showes our life, still fading as a flowre:</l>
+               <l>Bids vs beware of wanton wicked wayes,</l>
+               <l>For we are sure to liue no certaine howre.</l>
+               <l>Arithmaticke doth number worldly toyes,</l>
+               <l>Diuinitie innumerable ioyes.</l>
+               <l>‡ Then iudge I pray which yéeldes the more delight,</l>
+               <l>Dininitie, then chuse it for thy ioy:</l>
+               <l>Studie that chiefe, and labour day and night,</l>
+               <l>By that to learne to shield thee from annoy.</l>
+               <l>And thou shalt finde it salueth euery sore:</l>
+               <l>And saues the soule, and what ioy can be more?</l>
+               <l>¶ By Rethoricke, now some doe take delight,</l>
+               <l>To paint a fable with a gallant glose:</l>
+               <l>But no such tale is gratefull in Gods sight,</l>
+               <l>Besides, he will each secrete shift disclose.</l>
+               <l>His tale is best before the Lorde, who sayes,</l>
+               <l>He doth in hart repent his sinfull dayes.</l>
+               <l>¶ Who dooth in deed his sinfull life confesse,</l>
+               <l>who pardon craues, and calles to God for grace,</l>
+               <l>His tale is heard, him God doth rightly blesse,</l>
+               <l>And eke in heauen prouides for him a place.</l>
+               <l>God graunt vs all our prayers so to vse:</l>
+               <l>That he may not our penitence refuse.</l>
+               <l>¶ Now some againe delight in Histories,</l>
+               <l>To reade the Acts of some couragious Knight:</l>
+               <pb facs="tcp:194418:18"/>
+               <l>To thinke vpon the gallant victories,</l>
+               <l>To reade againe the order of the fight.</l>
+               <l>And doe such stories breede delight in deede?</l>
+               <l>Then take delight the Scriptures for to reade.</l>
+               <l>¶ There shalt thou finde how Christ a battell fought,</l>
+               <l>Against the deuill and his cursed traine:</l>
+               <l>Subdude them all, their force preuailed nought,</l>
+               <l>But all were driuen into eternall paine.</l>
+               <l>Blessed be he that so hath brought in thrall,</l>
+               <l>Him that would else haue surely slaine vs all.</l>
+               <l>¶ And tell me then, although some valiant Knight,</l>
+               <l>Did conquere Realmes, and by his force of armes</l>
+               <l>Subdued Princes by his onely might,</l>
+               <l>And made them know his force vnto their harmes,</l>
+               <l>Yet thinke of him, that by his onely might,</l>
+               <l>Did saue both thee, and all the world by fight.</l>
+               <l>¶ Oh valiant acte, and worthie to be read,</l>
+               <l>Who sau'd our liues, who else had sure bene slaine,</l>
+               <l>And further when our bodies here be dead,</l>
+               <l>Hath sau'd our soules from euerlasting paine.</l>
+               <l>God graunt vs all vnder that Christ to fight,</l>
+               <l>Who so our soules hath saued by his might.</l>
+               <l>¶ And of good déedes, to reade doost thou delight:</l>
+               <l>That worthie are for to be borne in minde,</l>
+               <l>Then reade how Christ vnto the blinde gaue sight,</l>
+               <l>Healed the sicke in body and in minde,</l>
+               <l>Did giue the lame their simmes, and what else more?</l>
+               <l>Gaue the diseasde a salue for euery sore.</l>
+               <l>¶ Where can you reade, of one so good a man,</l>
+               <l>Tushe, there is none without exception:</l>
+               <l>Let vs delight our selues there now and than,</l>
+               <l>His great good déedes to reade and lóoke vpon.</l>
+               <l>And we shall finde thereby such heauenly ioyes:</l>
+               <l>As we shall count all Stories else but toyes.</l>
+               <l>¶ For if we doe to minde, his goodnesse call,</l>
+               <l>How great a good he hath bestowed on vs:</l>
+               <pb facs="tcp:194418:19"/>
+               <l>By his deare death and bloud to saue vs all,</l>
+               <l>Are we not bound to thinke onely Iesus,</l>
+               <l>To be in déede the Author of our ioy,</l>
+               <l>And onely he that kéepes vs from annoy?</l>
+               <l>¶ Yes out of doubt, and therefore thus I end,</l>
+               <l>God graunt vs all, to take him for our ioy?</l>
+               <l>To loue our God, which is our onely friend,</l>
+               <l>That saues our soules, and bodies from am<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oy.</l>
+               <l>And to estéeme all worldly thinges but ioyes:</l>
+               <l>And set in Christ our all and onely ioyes.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <trailer>The end of the paine of pleasure.</trailer>
+         </div>
+         <div type="poem">
+            <head>The Authors Dreame.</head>
+            <lg>
+               <l>GOod Lord what faucies sal in sléepe? What wonders men shal fee:</l>
+               <l>That neuer like were séene nor heard, nor neuer like to be.</l>
+               <l>For profe, peruse this Dreame of mine,, and sée what Fancies strange,</l>
+               <l>Me thought the world began to turne, vnto a wonbrous chauge,</l>
+               <l>First, Kings cride out of lacke of cares, the Lords of too much liuing:</l>
+               <l>The Courtiers all of two much ease, the poore of too much giuing.</l>
+               <l>The Ladies wearie weare of loue, they sound then friendes so true:</l>
+               <l>Not one was false, (though euery day) they séemd to séeke a new,</l>
+               <l>The Lawyers left their studies off, and burnt their bookes a pace:</l>
+               <l>And pittie let them take no sée, to pleade the poore mans case.</l>
+               <l>Among the common people, troth was tride by yea and nay:</l>
+               <l>The swordes and bucklers laid aside, and daggers throwne away.</l>
+               <l>The ritch men emptied out their bagges. and beggers throue so fast:</l>
+               <l>That sure it was incredible, that such a world should fast.</l>
+               <l>The Merchants sold their wares good cheape, they made no count of gaine,</l>
+               <l>Why? Cittizens were neuer sound, in such a goodly vaine.</l>
+               <l>The countrie men, both tag and tag, came running on a heape:</l>
+               <l>And séeing wares at such a price, they sold their wares good cheape.</l>
+               <pb facs="tcp:194418:19"/>
+               <l>The Fidlers plaid for meate and drinke, they cared not for coyne:</l>
+               <l>Why, money lay about the stréet, none néeded to purloyne.</l>
+               <l>The Pillaries in euery place, were full of periured knaues,</l>
+               <l>And vp to Tiburne to their end, went all condemned slaues,</l>
+               <l>The place of punishment of vice, had not a prisoner:</l>
+               <l>And séeke all London, and not finde one foolish woman there.</l>
+               <l>The Churches all were full of folkes, not one was found a sléepe:</l>
+               <l>Good Lord how some would sigh for sinne, and some for forrow wéepe</l>
+               <l>The Preacher he was held a God, and God was honour d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e:</l>
+               <l>That euery man was glad to run, his heauenly will to know<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>And (to his power) to doe his will, did each one so delight,</l>
+               <l>That sure to sée how all agreed, it was a heauenly sight.</l>
+               <l>But well the world is figurds rounde, that turneth like a Ball:</l>
+               <l>Now this side vp, now that side downe, as Fortune lets it fall.</l>
+               <l>For sée, this happy blessed state, continued but a while:</l>
+               <l>Some froward fate began to frowns, that late did seeme to smile.</l>
+               <l>For suddainely the day was darke, the Skie was ouer-cast:</l>
+               <l>The thunder ratled, Lightning flasht, and downe came raine at last.</l>
+               <l>The stréetes that erst were fayre and dry, grew full of mire and durt:</l>
+               <l>And as they walkt, against their willes did one another spurt.</l>
+               <l>And by the spots now grew the spight, <hi>Iacke Sauce</hi> was in a snuffe:</l>
+               <l>Looke how you dash my hose quoth <hi>Dick, Rafe</hi> rageth for his ruffe,</l>
+               <l>
+                  <hi>Tom Tinker</hi> raps me out an oath, he would not so be vsde:</l>
+               <l>But dasht his Dagger on his pate that hath bin so abusde.</l>
+               <l>And swearing <hi>Wat</hi> will haue the wall, and euery worde an oathe:</l>
+               <l>With such a knaue t'was but a iest, to sweare by faith and troth.</l>
+               <l>Zwounds and wurse, héele haue a purse, if it be to be got:</l>
+               <l>He will haue scope, but ware the rope, the gallowes catch him not.</l>
+               <l>And <hi>Saunders Snuffe,</hi> was in a ruffe, not one that should goe by:</l>
+               <l>His Hat and Feather was his grace, and he would kéepe them dry.</l>
+               <l>But <hi>Lawrence</hi> lookt as big as he, not one in all the towne:</l>
+               <l>That should presume to offer once, his hand to set him downe.</l>
+               <l>Now Mistresse <hi>Needens</hi> with her mate, comes fiddle fiddle by:</l>
+               <l>And <hi>Iack</hi> must néedes giue <hi>Gill</hi> the wall, what knaues vse curtesie,</l>
+               <l>No, <hi>Saunder</hi> sweares, nor he, nor she, but he will set them downe:</l>
+               <l>Then out <hi>Tom Tinker</hi> drawes his toole, and claps him on the crowne.</l>
+               <pb facs="tcp:194418:20"/>
+               <l>And <hi>Katherin</hi> she began to cry, her customer is slaine:</l>
+               <l>And vp shee raiseth all the stréete, with billes and clubbes amaine.</l>
+               <l>Before the Constable can come, there's blowes on eyther side:</l>
+               <l>And friendes come in on eyther part, and them it must be tride,</l>
+               <l>Who is the man among them all, who heares the bell away:</l>
+               <l>The villaine boyes about the stréetes, begin to cry a fray.</l>
+               <l>Then hurlie, burlie, tag and rag, comes downe to sée this riot:</l>
+               <l>And many hurt and maimed sore ere they be set at quiet.</l>
+               <l>One hath a wipe crosse ore the shinnes, an other on the head:</l>
+               <l>One other ouerthwart the face, another lyes for dead.</l>
+               <l>The Constable is disobeyed, and called <hi>Iohn a Noddes:</hi>
+               </l>
+               <l>And honest neighbours, cuckolds knaues, but boyes must néeds haue rods.</l>
+               <l>And rascals must be rulde by force, and rigour of the Lawe:</l>
+               <l>Put vp your shirt, what néed you sweare, now knaues begin to claw.</l>
+               <l>The Counter is a cruell <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>age, but ware a Newgate byrde:</l>
+               <l>Welt, now good Maister Constable, but will you heare one worde.</l>
+               <l>I pray you let me goe, (alas) I came to part the fray:</l>
+               <l>And so did I, and so did I, the Drab is slipt away.</l>
+               <l>Poore <hi>Peter</hi> that stroke neare a blow, or euer drew before:</l>
+               <l>He bids a vengeance on them all, heeres brawling for a whore.</l>
+               <l>Mast Constable, I came but by, my Maister sent me forth:</l>
+               <l>If I should goe, it were as much as halfe my life were worth.</l>
+               <l>My Maister he would turne me off, and then I were vndone:</l>
+               <l>Beshrew their hearts with all my heart, that first the fray begun.</l>
+               <l>But tush a Tester must come forth, a pot of Ale and so:</l>
+               <l>Poore <hi>Peter</hi> payes for séeing frayes, and so is he let goe.</l>
+               <l>But chafing out of charitie, to thinke vpon his coyne:</l>
+               <l>The plague and vengeance fight for him, let him that list goe foyne.</l>
+               <l>Now <hi>Peter</hi> gone, the rest must packe, to prison for their paine:</l>
+               <l>Good Lord to sée what quarrels rose about a showre of raine.</l>
+               <l>Now Sessions comes, the Iudges set, the prisoners at the Barre:</l>
+               <l>Enditements now of murther read, that's past a iesting iarre.</l>
+               <l>Then guiltie or not guiltie founde, the Quest doth verdit giue:</l>
+               <l>And he that guiltie is giuen vp, cannot haue long to liue.</l>
+               <l>And God of heauen forgiue thy sinne, haue mercie on thy soule:</l>
+               <l>And as you passe to Tyburne, yet, call for Saint <hi>Giles</hi> his bowle.</l>
+               <pb facs="tcp:194418:20"/>
+               <l>Now this must not be so put vp, reuengement must be had:</l>
+               <l>The Cutlers shops will florish now, for young men will be mad.</l>
+               <l>Another fray or two ere long, when lustie fellowes méete:</l>
+               <l>Then swordes and Bucklers be the tooles thart are to kéepe a stréete.</l>
+               <l>And now a fray, the blades are out, Clubs now must part the fight:</l>
+               <l>And in a heate, strike here and there, and care not where they light.</l>
+               <l>One runnes vnto his Neighbours shop, and snatcheth vp a bill:</l>
+               <l>And neuer beares it home againe, but shift it how he will.</l>
+               <l>But he will haue it home againe, the other aunswers much:</l>
+               <l>And then my neighbour in a chaft, to haue an answere such,</l>
+               <l>Sweares by all the flesh on his backe, but he will make him know:</l>
+               <l>How he shall vse his Neighbour, and so much his better so.</l>
+               <l>He celles him thiefe, he stole his goods, he calles him lying knaue:</l>
+               <l>And so with knaue and thiefe, and both, the bill will haue.</l>
+               <l>He that hath wealth to worke his will, vnto the Lawier goes:</l>
+               <l>And vnto him complaines his case, and all he doth disclose.</l>
+               <l>How he was robbed of his bill, and ere the tale be tolde:</l>
+               <l>He claps me in the Lawiers hand, a péece of Angell gold.</l>
+               <l>With Sir, how thinke you, may I not endite him vpon this:</l>
+               <l>For taking it vnlawfully. Ile tell you what he is.</l>
+               <l>A very knaue. B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r lady Sir, me thinketh sir, sayes he:</l>
+               <l>It was a bolde attempt, and more for ought that I can sée,</l>
+               <l>You may well wring him for his paines, my man shall draw your booke:</l>
+               <l>To morrow come and you shall see, how well wéele ouer-looke,</l>
+               <l>And set it downe in order so, that you shall like it well:</l>
+               <l>Then with another peece of gold, the Lawier hath farewell.</l>
+               <l>Now comes the poore man with his crowne, and with a patched hose:</l>
+               <l>He tells the Lawier thus it is, and so the matter goes.</l>
+               <l>He calde him thiefe, and wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es by that he should steale his bill:</l>
+               <l>He had it not, yet to his face he would affirme it still.</l>
+               <l>How he might doe, to be reueng<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, of this his iniurie:</l>
+               <l>Though he were poore, he would be lothe to liue by théeuery.</l>
+               <l>No marrie honest man, sayes he, a théefe is great disgrace:</l>
+               <l>It is a worde enough to beare an action of the case.</l>
+               <l>To morrowe come againe to me, and thou shalt further sée:</l>
+               <l>When I haue thought vpon thy case, what I will doe for thée.</l>
+               <pb facs="tcp:194418:21"/>
+               <l>Thus is the churle with Angels gone, poore <hi>Tom</hi> with patched coate:</l>
+               <l>To try by lawe the théefe or foole, till both haue not a groate.</l>
+               <l>The Preachers oft rehearsed, Loue thy Neighbour as thy selfe:</l>
+               <l>And be not couetous too much, to hoord vp filthy pelfe.</l>
+               <l>Tu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, sayes the Church and carelesse knaue, he doth no good I sée:</l>
+               <l>For all his talke, but tell me what a prating knaue was he.</l>
+               <l>The money that (me thought) did lye in heapes in euery stréete:</l>
+               <l>And euery man (as foolish trash) did spurne at with his féete.</l>
+               <l>The raine so washed had away, I could not finde a scute:</l>
+               <l>And now who so would séeke for coyne, should finde full colde a sute.</l>
+               <l>Now money grewe to be so scant, good company <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an breake:</l>
+               <l>And one another to their friendes, did strangely séeme to speake.</l>
+               <l>That coyne should haue a rap, a curtesie and a knée:</l>
+               <l>He that was poore might stand at doore, where beggers wont to be.</l>
+               <l>Now lacke of money did in some, a secrete enuie bréede:</l>
+               <l>To sée their foes to storish braue, and they to liue in néede.</l>
+               <l>The ritch still kept the poore in awe, they might not be too bolde:</l>
+               <l>The beggers shooue not worth a strawe, oh charitie was colde.</l>
+               <l>Now ritch m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n would their children wed, vnto as ritch as they:</l>
+               <l>But noble youthes of gallant mindes, would beare the bell away.</l>
+               <l>Thus age and youth in hat<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> gre<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, aboute the sute of loue:</l>
+               <l>The one with wealth, the other will, did séeme his sute to moue.</l>
+               <l>And he or she that loued best, for coyne would quickly change:</l>
+               <l>Now Ladies liked not of loue, their friendes did séeme so strange.</l>
+               <l>The Lords so sawe the Lawiers thriue, they thought their liuing smal</l>
+               <l>And he that had neuer so much, was not content withall.</l>
+               <l>The Princes séeing all things change, began to growe in care:</l>
+               <l>How they should kéepe their state in peace, and sée the world so fare.</l>
+               <l>For to be short, a showre of raine, the world had washed so:</l>
+               <l>That after it, but fewe or none, that euer good did grow.</l>
+               <l>But take good héede, least if such ill rise, by a showre of raine:</l>
+               <l>Come not a fire to plague the world, with an infernall paine.</l>
+               <l>From which, God shield both man and childe, and graunt vs of his grace:</l>
+               <l>So here to liue, that he may giue vs all in heauen a place.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:194418:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
